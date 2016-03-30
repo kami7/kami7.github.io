@@ -27,12 +27,8 @@ h3{
   margin: 0.5in;
 }
 
-nav{
+nav, .no-print, footer{
   display:none;
-}
-
-span{
-  display: none;
 }
 
 a{
