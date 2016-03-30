@@ -15,7 +15,7 @@ h1{
 
 h2{
   font-size: 14pt;
-  margin-bottom: -.15in;
+  margin-bottom: -.1in;
 }
 
 h3{
@@ -29,4 +29,12 @@ h3{
 
 nav{
   display:none;
+}
+
+span{
+  display: none;
+}
+
+a{
+  text-decoration: none;
 }
