@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+
+*{
+  max-width:940px;
+}
+
+body{
+  font-family: droid serif;
+  font-size: 12pt;
+  color: black;
+}
+
+h1{
+  font-family: shadows into light;
+  text-align: center;
+  font-size: 63pt;
+  color: black;
+  margin-bottom: -.25in;
+  margin-top: 0in;
+  margin-left: 152.5px;
+  margin-right: 152.5px;
+}
+
+nav{
+  margin: 0px;
+  padding: 0px;
+  width:60px;
+}
+
+a{
+  color: rgb(194, 131, 150);
+}
+
+a:visited{
+  color: rgb(125, 71, 103);
+}
+
+a:hover{
+  color: rgb(192, 176, 176);
+}
+
+a:active{
+  color: rgb(38, 26, 40);
+}
+
+h2{
+  font-family: shadows into light;
+  font-size: 25pt;
+  color: black;
+  margin-bottom: -.20in;
+}
+
+h3{
+  font-family: shadows into light;
+  font-size: 20pt;
+  color: black;
+  margin-bottom: -.20in;
+}
+
+footer{
+  font-size: 10pt;
+  font-weight: bold;
+}
