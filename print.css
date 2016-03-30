@@ -1,0 +1,32 @@
+*{
+  background: transparent; !important;
+  color: black;
+  font-family: serif;
+}
+
+body{
+  font-size: 11pt;
+}
+
+h1{
+  font-size: 30pt;
+  margin: 0in;
+}
+
+h2{
+  font-size: 14pt;
+  margin-bottom: -.15in;
+}
+
+h3{
+  font-size: 12pt;
+  margin-bottom: -.15in;
+}
+
+@page{
+  margin: 0.5in;
+}
+
+nav{
+  display:none;
+}
