@@ -123,6 +123,9 @@ figure{
 
 figcaption{
   text-align: center;
+  padding-top: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
 }
 
 .column1of2{
