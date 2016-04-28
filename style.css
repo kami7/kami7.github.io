@@ -8,7 +8,7 @@
   min-width: 941px;
 }
 
-#flow {
+.flow {
   max-height: 20em;
   overflow: scroll;
 }
@@ -129,13 +129,10 @@ figure{
   padding-top: 1em;
 }
 
-#horizontal_image{
+.horizontal_image{
   padding-left: 2.5em;
 }
 
-#horizontal_image2{
-  padding-left: 2.5em;
-}
 
 figcaption{
   text-align: center;
