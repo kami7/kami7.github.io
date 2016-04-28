@@ -8,7 +8,7 @@
   min-width: 941px;
 }
 
-section {
+#flow {
   max-height: 4in;
   overflow: scroll;
 }
@@ -68,7 +68,11 @@ h1{
 nav li{
   display: inline-block;
   padding-right: 50px;
-  padding-left: 110px;
+  padding-left: 70px;
+}
+
+#current_page{
+  color: rgb(196, 133, 152);
 }
 
 #home_nav {
@@ -78,8 +82,8 @@ nav li{
 }
 
 #pages_nav{
-  padding-right: 50px;
-  padding-left: 50px;
+  padding-right: 30px;
+  padding-left: 30px;
 }
 
 a{
