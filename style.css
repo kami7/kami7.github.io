@@ -112,14 +112,18 @@ h4{
 }
 
 figure{
-  padding-left: 7.5em;
-  padding-top: 1em;
+  padding-left: 1em;
+  padding-top: 0em;
 }
 
-.horizontal_image{
-  padding-left: 2.5em;
+#horizontal_image1{
+  padding-left: 2em;
 }
 
+#horizontal_image2{
+  padding-left: 2em;
+  padding-top: 38em;
+}
 
 figcaption{
   text-align: center;
@@ -128,6 +132,17 @@ figcaption{
   padding-right: 3em;
 }
 
+#vertical_image1{
+  float:left;
+  padding-left: 2.6em;
+  padding-right: 0em;
+}
+
+#vertical_image2{
+  float:left;
+  padding-left: 0em;
+  padding-right: 2.4em;
+}
 
 .column1of2{
   float:left;
