@@ -32,25 +32,12 @@ body{
 background-image: url(symphony.png);
 }
 
-#resume_body{
+.pages_background{
   background-image: url(symphony.png);
   background-position: .25em .25em;
   background-repeat:repeat-x;
   background-clip:padding-box;
 }
-
-#photo_body{
-  background-image: url(symphony.png);
-  background-position: .25em .25em;
-  background-repeat:repeat-x;
-  background-clip:padding-box;
-}
-
- #pw_body{
-   background-image: url(symphony.png);
-   background-position: .25em .25em;
-   background-repeat:repeat-x;
- }
 
 h1{
   font-family: shadows into light;
@@ -78,8 +65,8 @@ nav li{
 }
 
 #pages_nav{
-  padding-right: 30px;
-  padding-left: 30px;
+  padding-right: 4em;
+  padding-left: 2em;
 }
 
 a{

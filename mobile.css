@@ -1,0 +1,84 @@
+@media (max-width: 320px){
+
+#wrapper{
+    max-width: 320px;
+    min-width: 320px;
+    margin: 0px auto;
+}
+#home{
+ font-size: 30pt;
+ margin-left: .5em;
+ margin-right: 0em;
+ margin-top: 2em;
+ padding-bottom: .25em;
+}
+
+h1{
+  font-size: 27pt;
+  margin-left: 1em;
+  margin-right: 0em;
+  margin-bottom: 0em;
+  padding: 0em;
+  text-align: left;
+  }
+
+body{
+    font-size: 12pt;
+    margin-left: 0em;
+    margin-right: 0em;
+    padding: 0em;
+    text-align: center;
+}
+
+
+.pages_background{
+  background: none;
+}
+
+nav li{
+  display: flex;
+  padding-right: 0em;
+  padding-left: 0em;
+  font-size: 11pt;
+}
+
+#home_nav {
+  padding-right: 0em;
+  padding-left: 4em;
+  font-size: 0pt;
+}
+
+#pages_nav{
+  padding-right: 0em;
+  padding-left: 0em;
+  text-align: left;
+}
+
+h4{
+  font-family: droid serif;
+  font-size: 12pt;
+  color: black;
+  text-align: center;
+  padding-top: 0em;
+  padding-right: 1.5em;
+  padding-left: 1.5em;
+}
+
+figure{
+  display: none;
+}
+
+.flow{
+  overflow: hidden;
+}
+
+#home_footer{
+  font-size: 8pt;
+  padding-top: 0em;
+  padding-left: 0em;
+}
+
+
+
+
+}
