@@ -5,10 +5,10 @@
 #wrapper{
   margin: 0px auto;
   max-width: 960px;
-  min-width: 883px;
+  min-width: 941px;
 }
 
-#content_scroll{
+section {
   max-height: 4in;
   overflow: scroll;
 }
@@ -111,6 +111,28 @@ h3{
   font-size: 20pt;
   color: black;
   margin-bottom: 0in;
+}
+
+h4{
+  font-family: droid serif;
+  font-size: 12pt;
+  color: black;
+  text-align: center;
+  padding-top: 25px;
+  padding-right: 160px;
+  padding-left: 160px;
+}
+figure{
+  padding-left: 120px;
+  padding-top: 25px;
+}
+
+#horizontal_image{
+  padding-left: 50px;
+}
+
+figcaption{
+  text-align: center;
 }
 
 .column1of2{
