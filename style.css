@@ -9,8 +9,16 @@
 }
 
 #flow {
-  max-height: 4in;
+  max-height: 20em;
   overflow: scroll;
+}
+
+#home{
+ font-size: 100pt;
+ margin-left: 0em;
+ margin-right: 0em;
+ margin-top: 2em;
+ padding-bottom: .25em;
 }
 
 body{
@@ -26,23 +34,22 @@ background-image: url(symphony.png);
 
 #resume_body{
   background-image: url(symphony.png);
-  background-position: 1px 1px;
+  background-position: .25em .25em;
   background-repeat:repeat-x;
   background-clip:padding-box;
 }
 
 #photo_body{
   background-image: url(symphony.png);
-  background-position: 1px 1px;
+  background-position: .25em .25em;
   background-repeat:repeat-x;
   background-clip:padding-box;
 }
 
  #pw_body{
    background-image: url(symphony.png);
-   background-position: 1px 1px;
+   background-position: .25em .25em;
    background-repeat:repeat-x;
-   background-clip:padding-box;
  }
 
 h1{
@@ -50,25 +57,14 @@ h1{
   text-align: center;
   font-size: 63pt;
   color: black;
-  margin-bottom: .60in;
-  margin-top: .85in;
-  margin-left: 152.5px;
-  margin-right: 152.5px;
+  margin-bottom: .50em;
+  margin-top: .75em;
 }
-
-#home{
- font-size: 100pt;
- margin-left: 0px;
- margin-right: 0px;
- margin-top: 3in;
- padding-bottom: 8px;
-}
-
 
 nav li{
   display: inline-block;
-  padding-right: 50px;
-  padding-left: 70px;
+  padding-right: 1em;
+  padding-left: 5.5em;
 }
 
 #current_page{
@@ -76,8 +72,8 @@ nav li{
 }
 
 #home_nav {
-  padding-right: 30px;
-  padding-left: 10px;
+  padding-right: 1em;
+  padding-left: 1em;
   font-size: 15pt;
 }
 
@@ -107,14 +103,15 @@ h2{
   font-family: shadows into light;
   font-size: 25pt;
   color: black;
-  margin-bottom: 0in;
+  margin-bottom: 0em;
+  margin-top: 2em;
 }
 
 h3{
   font-family: shadows into light;
   font-size: 20pt;
   color: black;
-  margin-bottom: 0in;
+  margin-bottom: 0em;
 }
 
 h4{
@@ -122,17 +119,18 @@ h4{
   font-size: 12pt;
   color: black;
   text-align: center;
-  padding-top: 25px;
-  padding-right: 160px;
-  padding-left: 160px;
+  padding-top: 3em;
+  padding-right: 9em;
+  padding-left: 9em;
 }
+
 figure{
-  padding-left: 120px;
-  padding-top: 25px;
+  padding-left: 7.5em;
+  padding-top: 1em;
 }
 
 #horizontal_image{
-  padding-left: 50px;
+  padding-left: 2.5em;
 }
 
 figcaption{
@@ -141,15 +139,15 @@ figcaption{
 
 .column1of2{
   float:left;
-  width: 350px;
-  margin-right: 70px;
-  margin-left: 0px;
+  width: 25em;
+  margin-right: 5em;
+  margin-left: 0em;
 }
 
 .column2of2{
   float:left;
-  width: 350px;
-  margin:10px;
+  width: 25em;
+  margin: 2em;
 }
 
 footer{
@@ -160,8 +158,8 @@ footer{
 
 #home_footer{
   font-size: 8pt;
-  padding-top: 60px;
-  padding-left: 80px;
+  padding-top: 10em;
+  padding-left: 8em;
 }
 
 .clear{
